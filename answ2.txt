@@ -1,0 +1,2 @@
+SELECT ID_Barang, Nama_Barang, MIN(Stok_Barang)
+FROM Tabel_Barang;
