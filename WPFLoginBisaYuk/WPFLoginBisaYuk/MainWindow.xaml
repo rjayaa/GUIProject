@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFLoginBisaYuk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFLoginBisaYuk"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="250">
+    <StackPanel>
+
+        <TextBlock Text ="Username" Margin="5 50 0 0"/>
+        <TextBox Name="tbUser"  Padding="2" Margin="5" />
+        <TextBlock Text ="Password" Margin="5 0 0 0"/>
+        <TextBox Name="tbPass" Padding="2" Margin="5" />
+        <Button Margin="10 0 10 10" Content="Register" Click="Button_Click"/>
+        <Button Margin="10 0 10 0"  Content="Login" Click="Button_Click_1"/>
+
+    </StackPanel>
+</Window>
