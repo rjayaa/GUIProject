@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRnVU4lq3mKcngXydG5fibYyBGr5TcxT5qz5WoZVupbyIjDVgdSfvi0ChdTHsXm2xz5y+DNXTCqQmBcRC8Vlqw==",
+  "dgSpecHash": "kcGs/uLNsjglt1tx5UBjstIqU9h1SkoxFtuk9sBROvRemxLvxQRe8rojh/ogPPbtRGR3IXZjw1eQhmHkxU74tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\wepeefHAPHAP\\wepeefHAPHAP\\wepeefHAPHAP.csproj",
+  "projectFilePath": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\WPFLogin\\wepeefHAPHAP\\Project00.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ragil\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\ragil\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

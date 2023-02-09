@@ -1568,11 +1568,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\wepeefHAPHAP\\wepeefHAPHAP\\wepeefHAPHAP.csproj",
-      "projectName": "wepeefHAPHAP",
-      "projectPath": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\wepeefHAPHAP\\wepeefHAPHAP\\wepeefHAPHAP.csproj",
+      "projectUniqueName": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\WPFLogin\\wepeefHAPHAP\\Project00.csproj",
+      "projectName": "Project00",
+      "projectPath": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\WPFLogin\\wepeefHAPHAP\\Project00.csproj",
       "packagesPath": "C:\\Users\\ragil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\wepeefHAPHAP\\wepeefHAPHAP\\obj\\",
+      "outputPath": "C:\\Users\\ragil\\OneDrive\\Documents\\GuIProject\\WPFLogin\\wepeefHAPHAP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

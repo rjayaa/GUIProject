@@ -1,0 +1,32 @@
+﻿<Page x:Class="Project00.MenuTable"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project00"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MenuTable">
+
+    <StackPanel Background="#eee">
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+
+            </Grid.ColumnDefinitions>
+
+            <TextBox Margin="20 10 0 0"/>
+            <Button Margin="20 10 0 0" Grid.Column="1" Content="Import"/>
+            <Button Margin="20 10 0 0" Grid.Column="2" Content="Insert" Click="Button_Click" Height="20" VerticalAlignment="Top" />
+            <Button Margin="20 10 0 0" Grid.Column="3" Content="Sort" />
+            <Button Margin="20 10 20 0" Grid.Column="4" Content="Save">
+            </Button>
+        </Grid>
+    </StackPanel>
+   
+</Page>

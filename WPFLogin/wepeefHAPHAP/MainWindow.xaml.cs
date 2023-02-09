@@ -14,6 +14,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using MySql.Data.MySqlClient;
+using Project00;
+
 namespace wepeefHAPHAP
 {
     /// <summary>
@@ -63,6 +65,8 @@ namespace wepeefHAPHAP
                     if(user == Reader.GetString("Username") && pass == Reader.GetString("password"))
                     {
                         MessageBox.Show("Authorized User");
+                        MenuTable mt1 = new MenuTable();
+                        this.Content=mt1;
                         conn.Close();
                         return;
                     }
