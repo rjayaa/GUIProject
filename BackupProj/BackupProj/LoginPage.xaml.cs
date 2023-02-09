@@ -24,6 +24,7 @@ namespace BackupProj
         public LoginPage()
         {
             InitializeComponent();
+            Connection();
         }
         public static void Connection()
         {
@@ -33,7 +34,6 @@ namespace BackupProj
             {
                 conn = new MySqlConnection(connStr);
                 conn.Open();
-                MessageBox.Show("Connection Open");
             }
             catch (Exception ex)
             {
@@ -52,7 +52,7 @@ namespace BackupProj
 
             try
             {
-                Connection();
+                
                 conn.Open();
                 MySqlCommand mySqlCommand = new MySqlCommand("SELECT * FROM login", conn);
                 MySqlDataReader Reader = mySqlCommand.ExecuteReader();

@@ -36,3 +36,5 @@ C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net
 C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\BackupProj.pdb
 C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\BackupProj.genruntimeconfig.cache
 C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\ref\BackupProj.dll
+C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertBarangPage.g.cs
+C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertBarangPage.baml
