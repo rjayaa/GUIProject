@@ -5,6 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BackupProj"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Frame x:Name="MyFrame" Content="frames" NavigationUIVisibility="Hidden"/>
+        Title="MainWindow" Height="500" Width="500">
+    <Frame x:Name="MyFrame" Height="300" Width="300" Content="frames" NavigationUIVisibility="Hidden"/>
 </Window>

@@ -10,6 +10,12 @@
     <Compile Update="InsertBarangPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="InsertSelection.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InsertSelectionPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="LandingPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -19,6 +25,12 @@
   </ItemGroup>
   <ItemGroup>
     <Page Update="InsertBarangPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InsertSelection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InsertSelectionPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="LandingPage.xaml">

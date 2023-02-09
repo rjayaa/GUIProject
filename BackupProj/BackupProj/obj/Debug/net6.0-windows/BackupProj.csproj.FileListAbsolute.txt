@@ -38,3 +38,7 @@ C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net
 C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\ref\BackupProj.dll
 C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertBarangPage.g.cs
 C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertBarangPage.baml
+C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertSelection.g.cs
+C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertSelection.baml
+C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertSelectionPage.g.cs
+C:\Users\ragil\OneDrive\Documents\GuIProject\BackupProj\BackupProj\obj\Debug\net6.0-windows\InsertSelectionPage.baml

@@ -9,22 +9,8 @@
       Title="LandingPage">
 
     <StackPanel Background="White">
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="2*"/>
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="*" />
-
-            </Grid.ColumnDefinitions>
-
-            <TextBox Margin="20 10 0 0"/>
-            <Button Margin="20 10 0 0" Grid.Column="1" Content="Import"/>
-            <Button Margin="20 10 0 0" Grid.Column="2" Content="Insert" Click="Button_Click" Height="20" VerticalAlignment="Top" />
-            <Button Margin="20 10 0 0" Grid.Column="3" Content="Sort" />
-            <Button Margin="20 10 20 0" Grid.Column="4" Content="Save">
-            </Button>
-        </Grid>
+        <Button HorizontalAlignment="Left" Width="70" Margin="20 10 0 0" Grid.Column="0" Content="Import"/>
+        <Button HorizontalAlignment="Left" Width="70" Margin="20 10 0 0" Grid.Column="1" Content="Insert" Click="Button_Click" Height="20" VerticalAlignment="Top" />
+        
     </StackPanel>
 </Page>

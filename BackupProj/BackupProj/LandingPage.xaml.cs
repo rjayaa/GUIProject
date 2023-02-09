@@ -27,7 +27,8 @@ namespace BackupProj
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            this.NavigationService.Navigate(new InsertBarangPage());
+            InsertSelection is2= new InsertSelection();
+            is2.Show();
         }
     }
 }
