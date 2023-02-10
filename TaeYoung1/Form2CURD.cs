@@ -170,5 +170,13 @@ namespace TaeYoung1
             ClearTextBox();
         }
 
+        private void DataGridPerusahaan_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if(e.ColumnIndex == 11)
+            {
+                Form3InserBarang formIns = new Form3InserBarang();
+                formIns.Show();
+            }
+        }
     }
 }

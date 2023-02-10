@@ -59,6 +59,7 @@
             this.DataGridPerusahaan.Name = "DataGridPerusahaan";
             this.DataGridPerusahaan.Size = new System.Drawing.Size(1386, 270);
             this.DataGridPerusahaan.TabIndex = 0;
+            this.DataGridPerusahaan.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridPerusahaan_CellClick);
             this.DataGridPerusahaan.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // label1
