@@ -34,7 +34,6 @@ namespace WinFormsApp2
 
             try
             {
-
                 conn.Open();
                 MySqlCommand mySqlCommand = new MySqlCommand("SELECT * FROM login", conn);
                 MySqlDataReader Reader = mySqlCommand.ExecuteReader();
